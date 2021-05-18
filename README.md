@@ -1,4 +1,4 @@
-# Activity Report App
+# Event Board to Improve People's Life Experience.
 
 ## Getting Started
 
@@ -6,32 +6,24 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-MacOS Big Sur Version 11.0.1
-
-Xcode Version 12.3
+Anaconda. Python. Django. PyCharm or Atom.
 
 ### Installing
 
-Go to the Appstore on your mac.
-
-Search Xcode.
-
-Select the one provided by Apple (officiel).
-
-Install the App. (This may take some time).
+Install the required softwares from their official website.
 
 ## Running the tests
 
-Input two arbitray geo-locations. Run the program. Observe the output number that represents the difference in percentage. 
+Succesful post of a event that is visible for all users. The users can register for the event.
 
 ### Break down into end to end tests
 
-The result displays the difference of the locations between the past days and today as a number.
+Users can post and regist for events on the website.
 
 ## Built With
 
-* [Xcode 12.3]
-* [Swift 5.3.2]
+* [Python]
+* [Django]
 
 ## Authors
 
