@@ -17,7 +17,7 @@ Install the required softwares from their official website.
 Succesful post of a event that is visible for all users. The users can register for the event.
 
 Go to the actwave_web directory. Run this command on your terminal:
-'''python manage.py runserver'''
+```python manage.py runserver```
 
 ### Break down into end to end tests
 
