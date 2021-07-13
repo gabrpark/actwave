@@ -1,34 +1,33 @@
 # Actwave
 
-**Actwave** is an event management website. The purpose of the service is to allow users to browse, create and share local events.
+**Actwave** is an event management website. The purpose of the service is to allow users to browse, create, and share local events.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 Installation
 ------------
 
-Prerequisites
-~~~~~~~~~~~~~
+#### Prerequisites
+
 
 - Python (>= |PythonMinVersion|)
 - Django
 - Atom
 - Anaconda
 
-=======
+#### Local Installation
 
-Local Installation
-~~~~~~~~~~~~~~~~~~
+```
+conda install -c anaconda django
+```
 
-conda install -c conda-forge Django
-
-Testing
--------
-
-After installation, you can launch the test.
+#### Testing
 
 To run the website on you local machine, run this command from your shell:
+
+```
 python manage.py runserver
+```
 
 Authors
 -------
