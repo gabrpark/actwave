@@ -20,20 +20,18 @@ Prerequisites
 Local Installation
 ~~~~~~~~~~~~~~~~~~
 
-``conda``::
-
-    conda install -c conda-forge Django
+conda install -c conda-forge Django
 
 Testing
-~~~~~~~
+-------
 
 After installation, you can launch the test.
 
-To run the website on you local machine, run this command from your shell::
-```python manage.py runserver```
+To run the website on you local machine, run this command from your shell:
+python manage.py runserver
 
 Authors
-~~~~~~~
+-------
 
 * **Gabriel Park** - [gabrpark](https://github.com/gabrpark)
 * **Anees Ur Rehman** - [aneesurrehman001](https://github.com/aneesurrehman001)
