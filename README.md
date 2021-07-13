@@ -1,32 +1,36 @@
-# Event Board to Improve People's Life Experience.
+**Actwave** is an event management website. The purpose of the service is to allow users to browse, create and share local events. The service focuses on physical activities.
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+Installation
+------------
 
-Anaconda. Python. Django. PyCharm or Atom.
+Prerequisites
+~~~~~~~~~~~~~
 
-### Installing
+- Python (>= |PythonMinVersion|)
+- Django
+- Atom
+- Anaconda
 
-Install the required softwares from their official website.
+=======
 
-## Running the tests
+Local Installation
+~~~~~~~~~~~~~~~~~~
 
-Succesful post of a event that is visible for all users. The users can register for the event.
+``conda``::
 
-Go to the actwave_web directory. Run this command on your terminal:
+    conda install -c conda-forge Django
+
+Testing
+~~~~~~~
+
+After installation, you can launch the test.
+
+Run this command on your terminal:
 ```python manage.py runserver```
-
-### Break down into end to end tests
-
-Users can post and regist for events on the website.
-
-## Built With
-
-* [Python]
-* [Django]
 
 ## Authors
 
